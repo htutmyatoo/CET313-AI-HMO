@@ -1,0 +1,60 @@
+{
+      "father": 
+      [     
+            {"Htut": "John"},
+            {"John": "William"},
+            {"John": "David"},
+            {"John": "Adam"},
+            {"William": "Chris"},
+            {"William": "Stephanie"},
+            {"David": "Wayne"},
+            {"David": "Tiffany"},
+            {"David": "Julie"},
+            {"David": "Neil"},
+            {"David": "Peter"},
+            {"Adam": "Sophia"},
+            {"Peter": "Olivia"},
+            {"Peter": "Steve"}
+      ],
+      "mother": 
+      [     
+            {"Myat": "John"},
+            {"Megan": "William"},
+            {"Megan": "David"},
+            {"Megan": "Adam"},
+            {"Emma": "Stephanie"},
+            {"Emma": "Chris"},
+            {"Olivia": "Tiffany"},
+            {"Olivia": "Julie"},
+            {"Olivia": "Neil"},
+            {"Olivia": "Peter"},
+            {"Lily": "Sophia"},
+            {"Emily": "Olivia"},
+            {"Emily": "Steve"}
+      ],
+      "spouse": 
+      [  
+            {"John": "Megan"},
+            {"William": "Emma"},
+            {"David": "Olivia"},
+            {"Adam": "Lily"}
+      ],
+      "gender": 
+      [  
+            {"John": "Male"},
+            {"William": "Male"},
+            {"David": "Male"},
+            {"Adam": "Male"},
+            {"Megan": "Female"},
+            {"Emma": "Female"},
+            {"Olivia": "Female"},
+            {"Lily": "Female"},
+            {"Stephanie": "Female"},
+            {"Chris": "Male"},
+            {"Tiffany": "Female"},
+            {"Julie": "Female"},
+            {"Neil": "Male"},
+            {"Peter": "Male"},
+            {"Sophia": "Female"}
+      ]
+}
